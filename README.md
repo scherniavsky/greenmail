@@ -17,6 +17,7 @@ The GreenMail project welcomes any contribution, so go ahead and fork/open a pul
 
 ***Note***: GreenMail recently moved to Github and was previously hosted on [SF][greenmail_sf_site].
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/4921b37d4fef404d8aa466a06309c17a)](https://www.codacy.com/app/Ztest/greenmail?utm_source=github.com&utm_medium=referral&utm_content=scherniavsky/greenmail&utm_campaign=badger)
 Development [![Build status](https://circleci.com/gh/greenmail-mail-test/greenmail/tree/master.svg?style=shield)](https://circleci.com/gh/greenmail-mail-test/greenmail/tree/master) [![Maven Central](https://img.shields.io/maven-central/v/com.icegreen/greenmail.svg)](http://search.maven.org/#search%7Cga%7C1%7Cg%3A%22com.icegreen%22%20AND%20a%3A%22greenmail%22)
 -----------
 
